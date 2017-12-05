@@ -22,4 +22,4 @@ This repository contains examples of programs in many programming languages such
   - Assembly 8086
   - Shell Script
 
-**Download the Programming Hub app here: (Google Play)[https://play.google.com/store/apps/details?id=com.freeit.java]**
+**Download the Programming Hub app here: [Google Play](https://play.google.com/store/apps/details?id=com.freeit.java)**
